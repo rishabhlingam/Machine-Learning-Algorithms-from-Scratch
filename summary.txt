@@ -1,7 +1,0 @@
-linear regression, with the model parameters obtained by mini-batch gradient descent
-
-penalized/regularized least squares fit of a linear model using ridge regression, with the model parameters obtained by batch gradient descent
-
-penalized/regularized least squares fit of a linear model using elastic net, with the model parameters obtained by coordinate descent
-
-penalized/regularized multinomial-logistic regression fit using ridge regression, with the model parameters obtained by batch gradient descent
